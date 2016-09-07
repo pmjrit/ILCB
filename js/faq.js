@@ -12,7 +12,7 @@ var faq = [{
 		"<ul><li>Reverse the cuts to Corporation Tax.</li>" +
 		"<li>Reverse cuts to Inheritance Tax</li>" +		
 		"<li>Introduce a <a href=\"https://en.wikipedia.org/wiki/Land_value_tax\" target=\"_blank\">land value tax</a></li>" +
-		"<li>Increase the top rate of tax to 50p from the current rate 45p.  This rate is only paid on income over the £150,000 threshold.</li></ul>" +
+		"<li>Increase the top rate of tax to 50p from the current rate 45p.  This rate is only paid on income over the &pound;150,000 threshold.</li></ul>" +
 		"<p>Jeremy has said he would intervene to enforce laws on British overseas territories and dependencies if they do not comply with UK tax law, introduce anti-avoidance measures into UK law, and invest in HMRC so they can hire the staff needed to collect the tax the country badly needs.</p>"
 },{
     "id": "is-he-electable",

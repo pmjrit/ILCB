@@ -45,6 +45,13 @@ var faq = [{
     "answer": 
         "Corbyn's supporters are from a wide variety of age groups and walks of life. After attending a meeting in Derby Paul Rogers (Bradford University) <a href=\"https://www.opendemocracy.net/paul-rogers/corbyn-crowd-and-its-signal\" target=\"_blank\">reported</a> <i>\"I doubt that any other politician could have attracted such a crowd at the present time, nor for many years, at least in the English midlands. The mood was positive, appreciative but not 'over the top'. <strong>It was as far from a cult as you could imagine</strong>\". [emphasis added]. Why not <a href=\"http://www.jeremyforlabour.com/rallies\" target=\"_blank\">go to a rally?</a></i>"
 },{
+	"id": "terrorist-sympathiser", 
+	"question": "...I've heard he's is a terrorist sympathiser", 
+	"answer": 
+		"Jeremy has always believed that in order to avoid or bring a halt to war, you need to talk to all sides.  Usually no side has a monopoly of truth or moral legitimacy, organisations like the IRA, Hamas and Hezbollah have genuine grievances – which need to be recognised if they are ever to be brought to the negotiating table." + 
+		"<p>If you look at his voting history you'll see he is anti war and anti violence. He has won awards for the work he's done to bring about peace.  He knows in order to broker peace all sides in any conflict need to talk.</p>"
+	
+},{
     "id": "how-old-is-he-again",
     "question": "... he's too old!",
     "answer": "At 71, Jeremy Corbyn would be the oldest Prime Minister ever elected to a first term. He is now a fit and healthy 67 year old. Angela Eagle said of him during the EU Referendum that he was pursuing an agenda that would make a 25-year-old tired. He has demonstrated remarkable stamina during the current leadership campaign."

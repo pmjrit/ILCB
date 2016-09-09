@@ -48,14 +48,11 @@ var faq = [{
 	"id": "terrorist-sympathiser", 
 	"question": "...I've heard he's is a terrorist sympathiser", 
 	"answer": 
-		"Jeremy has always believed that in order to avoid or bring a halt to war, you need to talk to all sides.  Usually no side has a monopoly of truth or moral legitimacy, organisations like the IRA, Hamas and Hezbollah have genuine grievances – which need to be recognised if they are ever to be brought to the negotiating table." + 
+		"Jeremy has always believed that in order to avoid or bring a halt to war, you need to talk to all sides.  Usually no side has a monopoly of truth or moral legitimacy, and that organisations like the IRA, Hamas and Hezbollah have genuine grievances – which need to be recognised if they are ever to be brought to the negotiating table." + 
 		"<p>If you look at his voting history you'll see he is anti war and anti violence. He has won awards for the work he's done to bring about peace.  He knows in order to broker peace all sides in any conflict need to talk.</p>"
 	
-},{
-	"id":"military-and-national-security",
-	"question":"...his attitudes about defence worry me", 
-	"answer":"Corbyn is not a pacifist, but his approach to security is significantly different from many other leaders. "
-},{
+},
+{
     "id": "how-old-is-he-again",
     "question": "... he's too old!",
     "answer": "At 71, Jeremy Corbyn would be the oldest Prime Minister ever elected to a first term. He is now a fit and healthy 67 year old. Angela Eagle said of him during the EU Referendum that he was pursuing an agenda that would make a 25-year-old tired. He has demonstrated remarkable stamina during the current leadership campaign."

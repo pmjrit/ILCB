@@ -48,7 +48,7 @@ $(document).ready(function() {
 		if ($(this).scrollTop() > $(".footer").position().top - $(window).height() + 110) {
 			$(".share-controls").css({
 					bottom: $(window).height() + $(this).scrollTop() - $(".footer").position().top - 90 + "px",
-					right: $(window).width()/2 - $(".share-controls").width()/2 + "px",
+					left: $(window).width()/2 - $(".share-controls").width()/7 * 3 + "px" ,
 					zIndex: 1
 				})
 				.addClass('display-inline');

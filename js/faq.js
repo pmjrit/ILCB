@@ -5,7 +5,7 @@ var faq = [{
         "Jeremy Corbyn is a <a href='http://www.politifact.com/truth-o-meter/article/2015/aug/26/bernie-sanders-socialist-or-democratic-socialist/'><i>democratic socialist</i></a>. He believes that our current economic system isn't doing enough for the poor and the middle-class in our society and that democratic change is needed to create a fairer and more just society.<br><br>" + 
         "But this isn't radical or scary. Many of the programs instituted by post war governments that we take for granted today &mdash; such as the NHS, the limited hours of work, the minimum wage, and Social Security &mdash; could be described as socialist programs."
 },{
-    "id": "wouldn't-he-increase-taxes",
+    "id": "wouldn%27t-he-increase-taxes",
     "question": "... I heard he wants to increase taxes!",
    "answer": "Most people will be better off under Corbyn's tax plan. " +
 		"These are the proposals: " + 
@@ -24,7 +24,7 @@ var faq = [{
     "id": "can-he-get-stuff-done",
     "question": "... how could he get anything done with so many of PLP being against him?",
     "answer": 
-        "If was elected as Prime Minister it is very likely there would be a realignment within the PLP. Having won an election his standing and authority would increase."
+        "If was elected as Prime Minister it is very likely there would be a realignment within the PLP. Some of those now 'opposed' would fall in behind his cabinet again. Having won an election his standing and authority would increase."
 },{
     "id": "position-on-nhs",
     "question": "...what about the NHS?",
@@ -48,13 +48,15 @@ var faq = [{
 	"id": "terrorist-sympathiser", 
 	"question": "...I've heard he's is a terrorist sympathiser", 
 	"answer": 
-		"Jeremy has always believed that in order to avoid or bring a halt to war, you need to talk to all sides.  Usually no side has a monopoly of truth or moral legitimacy, organisations like the IRA, Hamas and Hezbollah have genuine grievances – which need to be recognised if they are ever to be brought to the negotiating table." + 
+		"Jeremy has always believed that in order to avoid war or bring it a halt, you need to talk to all sides.  Usually no side has a monopoly of truth or moral legitimacy, organisations like the IRA, Hamas and Hezbollah have genuine grievances – which need to be recognised if they are ever to be brought to the negotiating table." + 
 		"<p>If you look at his voting history you'll see he is anti war and anti violence. He has won awards for the work he's done to bring about peace.  He knows in order to broker peace all sides in any conflict need to talk.</p>"
 	
 },{
 	"id":"military-and-national-security",
 	"question":"...his attitudes about defence worry me", 
-	"answer":"Corbyn is not a pacifist, but his approach to security is significantly different from many other leaders. "
+	"answer":"Corbyn takes the security and defence of the UK as seriously as anyone, but his approach to security is significantly different from many other leaders <!-- &gt;&gt;&gt;how? and why is this a good thing?&lt;&lt;&lt;-->.  <p>From the Defence Policy Review 2016: \"The safety and security of the British people must always be our first priority. This can only be achieved by a defence and security policy which is strategic, informed by expert opinion and supported by a strong evidence base.\"</p><p>It is Labour policy is to continue to spend 2% of GDP on defence.</p>" +
+	"And on Trident: remember it is not really <a href=\"https://www.youtube.com/watch?v=5WESmSZbf_k\" target=\"_blank\">independent.</a>"
+	
 },{
     "id": "how-old-is-he-again",
     "question": "... he's too old!",
@@ -63,6 +65,6 @@ var faq = [{
     "id": "I-am-still-unsure",
     "question": "Hmm, these are some good points, but I'm still unconvinced. Where can I learn more?",
     "answer": 
-        "To learn more about Jeremy Corbyn's policies, please visit <a href='http://www.jeremyforlabour.com/pledges'>www.jeremyforlabour.com/pledges</a>.<br /><br />" +
-        "[speech in support - video]"
+        "To learn more about Jeremy Corbyn's policies, please visit <a href='http://www.jeremyforlabour.com/pledges'>www.jeremyforlabour.com/pledges</a>."
+        
 }];

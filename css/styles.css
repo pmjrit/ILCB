@@ -245,7 +245,7 @@ body {
 	bottom: 20px;
 	right: 20px;
 	text-align: center;
-	z-index: 0;
+	z-index: 2;
 }
 
 .share-controls img {
@@ -395,26 +395,6 @@ a:hover {
 	#gray-screen {
 		display: none !important;
 	}
-
-/* added 2016-09-08 */	
-	
-	.share-controls {
-		width: 100%;
-		max-width: 200px;
-		/*position: fixed;*/
-		bottom: 0px;
-		right: 20px;
-		text-align: center;
-		z-index: 0;
-	}
-
-	.share-controls img {
-		width: 48px;
-		border-radius: 50%;
-		padding: 0;
-	}
-
-	
 }
 
 @media (max-width: 360px) {
@@ -439,14 +419,34 @@ a:hover {
 	}
 
 	.share-controls {
-		display: none;
+		/* display: none; */
+		width: 100%;
+		max-width: 200px;
+		position: fixed;
+		bottom: 50px;
+		right: 50px;
+		text-align: center;
+		z-index: 0;
+		}
+
+
+	.share-controls img {
+		width: 48px;
+		border-radius: 50%;
+		padding: 0;
 	}
 
+	.share-controls img:hover {
+		background-color: rgb(8, 126, 215);
+		background-size: 50%, 25%, 25%;
+	}
+		
 	.created-by {
 		text-align: center;
 		width: 90%;
 		padding: 10px;
 	}
+
 	#message {
     position: inherit;
     width: 100%;
@@ -456,37 +456,29 @@ a:hover {
 		background-color: #FEEFB3;
 		color: #9F6000;
 	}
+
 	#message-text {
 		padding: 12px;
 		font-size: 18px;
 		color: inherit;
 	}
+
 	#message-text a {
 		color: inherit;
 	}
+
 	#message .small {
 		font-size: 0.8em;
 	}
+
 	#close-message {
 		font-size: 60px;
 		margin-top: 10px;
 		margin-right: 10px;
 		color: inherit;
 	}
+
 	#gray-screen {
 		display: none !important;
-	}
-/* added 2016-09-08 */	
-	.share-controls.display-inline {
-		width: 100%;
-		/* max-width: 200px; */
-		text-align: center;
-		z-index: 0;
-	}
-	
-	.share-controls img {
-		width: 48px;
-		border-radius: 50%;
-		padding: 0;
 	}
 }

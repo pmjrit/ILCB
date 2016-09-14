@@ -56,7 +56,7 @@ $(document).ready(function() {
 
 		}
 		else if ($(".share-controls").css("bottom") !== "20px") {
-			console.log("Jesus H Fucking Christ! On a bike.");
+			console.log("JC! On a bike.");
 			$(".share-controls").css({
 					bottom: "20px",
 					right: "20px",

@@ -245,7 +245,7 @@ body {
 	bottom: 20px;
 	right: 20px;
 	text-align: center;
-	z-index: 2;
+	z-index: 0;
 }
 
 .share-controls img {
@@ -398,6 +398,7 @@ a:hover {
 }
 
 @media (max-width: 360px) {
+
 	.header {
 		height: 160px;
 	}
@@ -415,7 +416,9 @@ a:hover {
 	}
 
 	.question-container, .answer-container {
-		max-width: 80%;
+		padding-right:1em;
+		margin-right:1em;
+		max-width: 75%;
 	}
 
 	.share-controls {

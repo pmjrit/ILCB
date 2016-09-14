@@ -65,6 +65,6 @@ var faq = [{
     "id": "I-am-still-unsure",
     "question": "Hmm, these are some good points, but I'm still unconvinced. Where can I learn more?",
     "answer": 
-        "To learn more about Jeremy Corbyn's policies, please visit <a href='http://www.jeremyforlabour.com/pledges'>www.jeremyforlabour.com/pledges</a>."
+        "<a href='http://www.jeremyforlabour.com/pledges'>Read Jeremy's 10 policy pledges</a>."
         
 }];
